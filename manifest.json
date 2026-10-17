@@ -1,57 +1,57 @@
 {
-  "schemaVersion": 1,
-  "patchName": "dsh-agent-team-retire-model-panel",
-  "expectedPackageVersion": "0.2.0-rc.2",
-  "generatedFrom": "npm tarball 0.2.0-rc.2 (pristine) vs installed DSH desktop app",
-  "files": [
-    {
-      "package": "dsh-experimental-agent-team",
-      "path": "lib/index.js",
-      "bytes": 78173,
-      "pristine": "7e8122ed7ae6723dc5152af32cc62b592f5c39a36a88dc71f280fd332c815419",
-      "patched": "eb1bf4b18fe0910b3bb0355273a72f436149e9720ddd8267583c4d574226ce27"
-    },
-    {
-      "package": "dsh-experimental-agent-team",
-      "path": "lib/invariant.js",
-      "bytes": 18698,
-      "pristine": "1c9cd7fb3244adfed303bfdb5119c799083ec5291b685d92d5e68d0998752a02",
-      "patched": "ebecdc80ea7e22c57622d0632be2df845b6500ab745262a3b3d01318e461ea14"
-    },
-    {
-      "package": "dsh-experimental-agent-team",
-      "path": "lib/types/index.js",
-      "bytes": 10515,
-      "pristine": "60873a170ef2132b5c2e8bea8a3a0220719eff68b4e830c677d1280071b63035",
-      "patched": "501c697b1cd668b7dce85cab7c16f24034dc38a26347f6c6532ac2f75608fe6f"
-    },
-    {
-      "package": "dsh-experimental-agent-team",
-      "path": "lib/types/projection.js",
-      "bytes": 14314,
-      "pristine": "7240e25bceae67312c7b0253f6fb725794104595f10e94c4ffb899c869c0f247",
-      "patched": "e211ddfe1f485762b458c2d8555afdb6d9aff4d5326114e7d279ec99b2dab059"
-    },
-    {
-      "package": "dsh-experimental-agent-team",
-      "path": "lib/types/roster.js",
-      "bytes": 25617,
-      "pristine": "9fe386eb529a7432a475b309ff827e601f03ac3a605595758d6c840bbe220ea5",
-      "patched": "a46d4a5f438995888cdc1d951007fa26e3dc6f03cde74536ed97f2c5886cc739"
-    },
-    {
-      "package": "dsh-experimental-client-ui-agent-team",
-      "path": "lib/client.js",
-      "bytes": 48137,
-      "pristine": "3a679458016b30b3374329c8470902b6293209a4084ece33c1b5ec29699e35c4",
-      "patched": "00861893dac814687b393812db983a3f7b36166c573ebdb28dce36e71e82d02d"
-    },
-    {
-      "package": "dsh-experimental-tool-agent-team",
-      "path": "lib/index.js",
-      "bytes": 28368,
-      "pristine": "cafdbb7a050431b17251527789d0fcb2e9b95c006a7513786c2c43fea3aca937",
-      "patched": "11c801a7da9432e21e8e910c7fdb1f21ea57e3821d0f628ce7bb166455d2ac7a"
-    }
-  ]
+ "schemaVersion": 1,
+ "patchName": "dsh-agent-team-retire-model-panel",
+ "expectedPackageVersion": "0.2.0-rc.2",
+ "generatedFrom": "npm tarball 0.2.0-rc.2 (pristine) vs installed DSH desktop app",
+ "files": [
+  {
+   "package": "dsh-experimental-agent-team",
+   "path": "lib/index.js",
+   "bytes": 78173,
+   "pristine": "7e8122ed7ae6723dc5152af32cc62b592f5c39a36a88dc71f280fd332c815419",
+   "patched": "eb1bf4b18fe0910b3bb0355273a72f436149e9720ddd8267583c4d574226ce27"
+  },
+  {
+   "package": "dsh-experimental-agent-team",
+   "path": "lib/invariant.js",
+   "bytes": 18698,
+   "pristine": "1c9cd7fb3244adfed303bfdb5119c799083ec5291b685d92d5e68d0998752a02",
+   "patched": "ebecdc80ea7e22c57622d0632be2df845b6500ab745262a3b3d01318e461ea14"
+  },
+  {
+   "package": "dsh-experimental-agent-team",
+   "path": "lib/types/index.js",
+   "bytes": 10515,
+   "pristine": "60873a170ef2132b5c2e8bea8a3a0220719eff68b4e830c677d1280071b63035",
+   "patched": "501c697b1cd668b7dce85cab7c16f24034dc38a26347f6c6532ac2f75608fe6f"
+  },
+  {
+   "package": "dsh-experimental-agent-team",
+   "path": "lib/types/projection.js",
+   "bytes": 14314,
+   "pristine": "7240e25bceae67312c7b0253f6fb725794104595f10e94c4ffb899c869c0f247",
+   "patched": "e211ddfe1f485762b458c2d8555afdb6d9aff4d5326114e7d279ec99b2dab059"
+  },
+  {
+   "package": "dsh-experimental-agent-team",
+   "path": "lib/types/roster.js",
+   "bytes": 25617,
+   "pristine": "9fe386eb529a7432a475b309ff827e601f03ac3a605595758d6c840bbe220ea5",
+   "patched": "a46d4a5f438995888cdc1d951007fa26e3dc6f03cde74536ed97f2c5886cc739"
+  },
+  {
+   "package": "dsh-experimental-client-ui-agent-team",
+   "path": "lib/client.js",
+   "bytes": 48092,
+   "pristine": "3a679458016b30b3374329c8470902b6293209a4084ece33c1b5ec29699e35c4",
+   "patched": "2f1d4e6e9b4cb629f6277d8c929ab33e6ac8f91b9d5df67a9786960d3fad3df5"
+  },
+  {
+   "package": "dsh-experimental-tool-agent-team",
+   "path": "lib/index.js",
+   "bytes": 28368,
+   "pristine": "cafdbb7a050431b17251527789d0fcb2e9b95c006a7513786c2c43fea3aca937",
+   "patched": "11c801a7da9432e21e8e910c7fdb1f21ea57e3821d0f628ce7bb166455d2ac7a"
+  }
+ ]
 }
